@@ -8,7 +8,7 @@ Build a decision tree classifier to predict whether a customer will purchase a p
 
 ## Knowledge Gained
 
-Task 2 enriched my expertise in building decision tree classifiers for predictive modeling tasks and understanding how demographic and behavioral data influence customer purchasing decisions.
+Task 3 enriched my expertise in building decision tree classifiers for predictive modeling tasks and understanding how demographic and behavioral data influence customer purchasing decisions.
 
 ## Connect with Me
 
